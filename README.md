@@ -17,4 +17,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/arihant-jhaa/DSA/tree/master/0509-fibonacci-number) |
+## Array
+|  |
+| ------- |
+| [0704-binary-search](https://github.com/arihant-jhaa/DSA/tree/master/0704-binary-search) |
+## Binary Search
+|  |
+| ------- |
+| [0704-binary-search](https://github.com/arihant-jhaa/DSA/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
