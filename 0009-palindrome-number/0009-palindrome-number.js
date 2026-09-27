@@ -3,13 +3,15 @@
  * @return {boolean}
  */
 var isPalindrome = function (x) {
-    const digits = x.toString().split('');
-    let n = digits.length;
-    let mid = (n / 2) - 1;
-    let check = true;
-    for (let i = 0, j = n - 1; i <= j; i++, j--) {
-        if (digits[i] != digits[j])
-            check = false;
+    let og = x;
+    let rev = 0;
+    if (og < 0) return false;
+
+    while (og > 0) {
+        let last = og % 10;
+        rev = rev * 10 + last;
+        og = og / 10 | 0;
     }
-    return check;
+
+    return x === rev;
 };
