@@ -55,4 +55,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/arihant-jhaa/DSA/tree/master/0912-sort-an-array) |
+## Linked List
+|  |
+| ------- |
+| [0707-design-linked-list](https://github.com/arihant-jhaa/DSA/tree/master/0707-design-linked-list) |
+## Design
+|  |
+| ------- |
+| [0707-design-linked-list](https://github.com/arihant-jhaa/DSA/tree/master/0707-design-linked-list) |
 <!---LeetCode Topics End-->
