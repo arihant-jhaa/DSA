@@ -10,8 +10,8 @@
  * @return {ListNode}
  */
 var middleNode = function (head) {
-    let sp = head, fp = head;
-    while (fp != null && fp.next != null) {
+    let sp = fp = head;
+    while (fp && fp.next) {
         fp = fp.next.next;
         sp = sp.next
     }
