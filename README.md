@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/arihant-jhaa/DSA/tree/master/0704-binary-search) |
 | [0912-sort-an-array](https://github.com/arihant-jhaa/DSA/tree/master/0912-sort-an-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/arihant-jhaa/DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/arihant-jhaa/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Binary Search
 |  |
 | ------- |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/arihant-jhaa/DSA/tree/master/0088-merge-sorted-array) |
 | [0268-missing-number](https://github.com/arihant-jhaa/DSA/tree/master/0268-missing-number) |
 | [0912-sort-an-array](https://github.com/arihant-jhaa/DSA/tree/master/0912-sort-an-array) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/arihant-jhaa/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -75,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/arihant-jhaa/DSA/tree/master/0912-sort-an-array) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/arihant-jhaa/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Linked List
 |  |
 | ------- |
@@ -109,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/arihant-jhaa/DSA/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/arihant-jhaa/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0268-missing-number](https://github.com/arihant-jhaa/DSA/tree/master/0268-missing-number) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/arihant-jhaa/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
