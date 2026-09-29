@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/arihant-jhaa/DSA/tree/master/0009-palindrome-number) |
 | [0231-power-of-two](https://github.com/arihant-jhaa/DSA/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/arihant-jhaa/DSA/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/arihant-jhaa/DSA/tree/master/0509-fibonacci-number) |
 ## Dynamic Programming
 |  |
@@ -32,11 +33,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/arihant-jhaa/DSA/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/arihant-jhaa/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/arihant-jhaa/DSA/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/arihant-jhaa/DSA/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/arihant-jhaa/DSA/tree/master/0704-binary-search) |
 | [0912-sort-an-array](https://github.com/arihant-jhaa/DSA/tree/master/0912-sort-an-array) |
 ## Binary Search
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/arihant-jhaa/DSA/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/arihant-jhaa/DSA/tree/master/0704-binary-search) |
 ## Divide and Conquer
 |  |
@@ -46,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/arihant-jhaa/DSA/tree/master/0088-merge-sorted-array) |
+| [0268-missing-number](https://github.com/arihant-jhaa/DSA/tree/master/0268-missing-number) |
 | [0912-sort-an-array](https://github.com/arihant-jhaa/DSA/tree/master/0912-sort-an-array) |
 ## Heap (Priority Queue)
 |  |
@@ -98,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/arihant-jhaa/DSA/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/arihant-jhaa/DSA/tree/master/0160-intersection-of-two-linked-lists) |
+| [0268-missing-number](https://github.com/arihant-jhaa/DSA/tree/master/0268-missing-number) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
@@ -111,4 +116,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/arihant-jhaa/DSA/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/arihant-jhaa/DSA/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/arihant-jhaa/DSA/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
