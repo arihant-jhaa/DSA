@@ -151,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/arihant-jhaa/DSA/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/arihant-jhaa/DSA/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/arihant-jhaa/DSA/tree/master/0234-palindrome-linked-list) |
+| [1021-remove-outermost-parentheses](https://github.com/arihant-jhaa/DSA/tree/master/1021-remove-outermost-parentheses) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/arihant-jhaa/DSA/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/arihant-jhaa/DSA/tree/master/0058-length-of-last-word) |
 | [0344-reverse-string](https://github.com/arihant-jhaa/DSA/tree/master/0344-reverse-string) |
+| [1021-remove-outermost-parentheses](https://github.com/arihant-jhaa/DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1108-defanging-an-ip-address](https://github.com/arihant-jhaa/DSA/tree/master/1108-defanging-an-ip-address) |
 | [1528-shuffle-string](https://github.com/arihant-jhaa/DSA/tree/master/1528-shuffle-string) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/arihant-jhaa/DSA/tree/master/2011-final-value-of-variable-after-performing-operations) |
@@ -193,4 +195,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/arihant-jhaa/DSA/tree/master/0020-valid-parentheses) |
+| [1021-remove-outermost-parentheses](https://github.com/arihant-jhaa/DSA/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
