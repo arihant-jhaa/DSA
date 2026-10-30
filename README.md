@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/arihant-jhaa/DSA/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/arihant-jhaa/DSA/tree/master/0496-next-greater-element-i) |
 | [0704-binary-search](https://github.com/arihant-jhaa/DSA/tree/master/0704-binary-search) |
+| [0739-daily-temperatures](https://github.com/arihant-jhaa/DSA/tree/master/0739-daily-temperatures) |
 | [0912-sort-an-array](https://github.com/arihant-jhaa/DSA/tree/master/0912-sort-an-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/arihant-jhaa/DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/arihant-jhaa/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/arihant-jhaa/DSA/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/arihant-jhaa/DSA/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/arihant-jhaa/DSA/tree/master/0496-next-greater-element-i) |
+| [0739-daily-temperatures](https://github.com/arihant-jhaa/DSA/tree/master/0739-daily-temperatures) |
 | [1021-remove-outermost-parentheses](https://github.com/arihant-jhaa/DSA/tree/master/1021-remove-outermost-parentheses) |
 ## Bit Manipulation
 |  |
@@ -206,4 +208,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/arihant-jhaa/DSA/tree/master/0496-next-greater-element-i) |
+| [0739-daily-temperatures](https://github.com/arihant-jhaa/DSA/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
