@@ -7,7 +7,7 @@ var mySqrt = function (x) {
     let l = 2;
     let r = Math.floor(x / 2);
     while (l <= r) {
-        let m = Math.floor((l + r) / 2);
+        let m = l + Math.floor((r - l) / 2);
         if (x === m * m) return m;
         else if (x < m * m) r = m - 1;
         else if (x > m * m) l = m + 1;
