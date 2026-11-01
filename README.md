@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/arihant-jhaa/DSA/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/arihant-jhaa/DSA/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/arihant-jhaa/DSA/tree/master/0009-palindrome-number) |
+| [0069-sqrtx](https://github.com/arihant-jhaa/DSA/tree/master/0069-sqrtx) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/arihant-jhaa/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0231-power-of-two](https://github.com/arihant-jhaa/DSA/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/arihant-jhaa/DSA/tree/master/0268-missing-number) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/arihant-jhaa/DSA/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/arihant-jhaa/DSA/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/arihant-jhaa/DSA/tree/master/0704-binary-search) |
 ## Divide and Conquer
@@ -226,4 +228,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0994-rotting-oranges](https://github.com/arihant-jhaa/DSA/tree/master/0994-rotting-oranges) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/arihant-jhaa/DSA/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
