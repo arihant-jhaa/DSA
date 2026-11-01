@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/arihant-jhaa/DSA/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/arihant-jhaa/DSA/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/arihant-jhaa/DSA/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [3417-zigzag-grid-traversal-with-skip](https://github.com/arihant-jhaa/DSA/tree/master/3417-zigzag-grid-traversal-with-skip) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/arihant-jhaa/DSA/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Binary Search
 |  |
@@ -204,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0994-rotting-oranges](https://github.com/arihant-jhaa/DSA/tree/master/0994-rotting-oranges) |
 | [1672-richest-customer-wealth](https://github.com/arihant-jhaa/DSA/tree/master/1672-richest-customer-wealth) |
+| [3417-zigzag-grid-traversal-with-skip](https://github.com/arihant-jhaa/DSA/tree/master/3417-zigzag-grid-traversal-with-skip) |
 ## Simulation
 |  |
 | ------- |
@@ -211,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1920-build-array-from-permutation](https://github.com/arihant-jhaa/DSA/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/arihant-jhaa/DSA/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/arihant-jhaa/DSA/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [3417-zigzag-grid-traversal-with-skip](https://github.com/arihant-jhaa/DSA/tree/master/3417-zigzag-grid-traversal-with-skip) |
 ## Number Theory
 |  |
 | ------- |
