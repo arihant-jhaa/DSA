@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2413-smallest-even-multiple](https://github.com/arihant-jhaa/DSA/tree/master/2413-smallest-even-multiple) |
 | [2469-convert-the-temperature](https://github.com/arihant-jhaa/DSA/tree/master/2469-convert-the-temperature) |
 | [2769-find-the-maximum-achievable-number](https://github.com/arihant-jhaa/DSA/tree/master/2769-find-the-maximum-achievable-number) |
+| [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/arihant-jhaa/DSA/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/arihant-jhaa/DSA/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Dynamic Programming
 |  |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0328-odd-even-linked-list](https://github.com/arihant-jhaa/DSA/tree/master/0328-odd-even-linked-list) |
 | [0707-design-linked-list](https://github.com/arihant-jhaa/DSA/tree/master/0707-design-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/arihant-jhaa/DSA/tree/master/0876-middle-of-the-linked-list) |
+| [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/arihant-jhaa/DSA/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 ## Design
 |  |
 | ------- |
@@ -218,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2413-smallest-even-multiple](https://github.com/arihant-jhaa/DSA/tree/master/2413-smallest-even-multiple) |
+| [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/arihant-jhaa/DSA/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 ## Queue
 |  |
 | ------- |
