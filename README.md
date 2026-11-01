@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/arihant-jhaa/DSA/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/arihant-jhaa/DSA/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/arihant-jhaa/DSA/tree/master/0367-valid-perfect-square) |
+| [0396-rotate-function](https://github.com/arihant-jhaa/DSA/tree/master/0396-rotate-function) |
 | [0412-fizz-buzz](https://github.com/arihant-jhaa/DSA/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/arihant-jhaa/DSA/tree/master/0509-fibonacci-number) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/arihant-jhaa/DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/arihant-jhaa/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0396-rotate-function](https://github.com/arihant-jhaa/DSA/tree/master/0396-rotate-function) |
 | [0509-fibonacci-number](https://github.com/arihant-jhaa/DSA/tree/master/0509-fibonacci-number) |
 ## Recursion
 |  |
@@ -53,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/arihant-jhaa/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0268-missing-number](https://github.com/arihant-jhaa/DSA/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/arihant-jhaa/DSA/tree/master/0283-move-zeroes) |
+| [0396-rotate-function](https://github.com/arihant-jhaa/DSA/tree/master/0396-rotate-function) |
 | [0485-max-consecutive-ones](https://github.com/arihant-jhaa/DSA/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/arihant-jhaa/DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/arihant-jhaa/DSA/tree/master/0503-next-greater-element-ii) |
