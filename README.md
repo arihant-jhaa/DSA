@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/arihant-jhaa/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0231-power-of-two](https://github.com/arihant-jhaa/DSA/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/arihant-jhaa/DSA/tree/master/0268-missing-number) |
+| [0412-fizz-buzz](https://github.com/arihant-jhaa/DSA/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/arihant-jhaa/DSA/tree/master/0509-fibonacci-number) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/arihant-jhaa/DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [2235-add-two-integers](https://github.com/arihant-jhaa/DSA/tree/master/2235-add-two-integers) |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/arihant-jhaa/DSA/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/arihant-jhaa/DSA/tree/master/0058-length-of-last-word) |
 | [0344-reverse-string](https://github.com/arihant-jhaa/DSA/tree/master/0344-reverse-string) |
+| [0412-fizz-buzz](https://github.com/arihant-jhaa/DSA/tree/master/0412-fizz-buzz) |
 | [1021-remove-outermost-parentheses](https://github.com/arihant-jhaa/DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1108-defanging-an-ip-address](https://github.com/arihant-jhaa/DSA/tree/master/1108-defanging-an-ip-address) |
 | [1528-shuffle-string](https://github.com/arihant-jhaa/DSA/tree/master/1528-shuffle-string) |
@@ -188,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/arihant-jhaa/DSA/tree/master/0412-fizz-buzz) |
 | [1929-concatenation-of-array](https://github.com/arihant-jhaa/DSA/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/arihant-jhaa/DSA/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## Number Theory
