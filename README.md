@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2413-smallest-even-multiple](https://github.com/arihant-jhaa/DSA/tree/master/2413-smallest-even-multiple) |
 | [2469-convert-the-temperature](https://github.com/arihant-jhaa/DSA/tree/master/2469-convert-the-temperature) |
 | [2769-find-the-maximum-achievable-number](https://github.com/arihant-jhaa/DSA/tree/master/2769-find-the-maximum-achievable-number) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/arihant-jhaa/DSA/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/arihant-jhaa/DSA/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/arihant-jhaa/DSA/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/arihant-jhaa/DSA/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/arihant-jhaa/DSA/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Binary Search
 |  |
 | ------- |
