@@ -4,9 +4,8 @@
  */
 var zigzagTraversal = function (arr) {
     let ans = [];
+    let count = 0;//for alternate cell
     for (let i = 0; i < arr.length; i++) {
-        let count = 0;//for alternate cell
-
         //increasing...
         for (let j = 0; j < arr[0].length; j++) {
             if (count % 2 === 0) ans.push(arr[i][j]);
