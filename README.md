@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2235-add-two-integers](https://github.com/arihant-jhaa/DSA/tree/master/2235-add-two-integers) |
 | [2413-smallest-even-multiple](https://github.com/arihant-jhaa/DSA/tree/master/2413-smallest-even-multiple) |
 | [2469-convert-the-temperature](https://github.com/arihant-jhaa/DSA/tree/master/2469-convert-the-temperature) |
+| [2525-categorize-box-according-to-criteria](https://github.com/arihant-jhaa/DSA/tree/master/2525-categorize-box-according-to-criteria) |
 | [2769-find-the-maximum-achievable-number](https://github.com/arihant-jhaa/DSA/tree/master/2769-find-the-maximum-achievable-number) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/arihant-jhaa/DSA/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/arihant-jhaa/DSA/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
