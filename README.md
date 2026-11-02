@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/arihant-jhaa/DSA/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [3417-zigzag-grid-traversal-with-skip](https://github.com/arihant-jhaa/DSA/tree/master/3417-zigzag-grid-traversal-with-skip) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/arihant-jhaa/DSA/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3668-restore-finishing-order](https://github.com/arihant-jhaa/DSA/tree/master/3668-restore-finishing-order) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/arihant-jhaa/DSA/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Binary Search
 |  |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/arihant-jhaa/DSA/tree/master/0268-missing-number) |
 | [0496-next-greater-element-i](https://github.com/arihant-jhaa/DSA/tree/master/0496-next-greater-element-i) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/arihant-jhaa/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [3668-restore-finishing-order](https://github.com/arihant-jhaa/DSA/tree/master/3668-restore-finishing-order) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
