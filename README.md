@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/arihant-jhaa/DSA/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [3417-zigzag-grid-traversal-with-skip](https://github.com/arihant-jhaa/DSA/tree/master/3417-zigzag-grid-traversal-with-skip) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/arihant-jhaa/DSA/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3898-find-the-degree-of-each-vertex](https://github.com/arihant-jhaa/DSA/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Binary Search
 |  |
 | ------- |
@@ -209,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/arihant-jhaa/DSA/tree/master/0994-rotting-oranges) |
 | [1672-richest-customer-wealth](https://github.com/arihant-jhaa/DSA/tree/master/1672-richest-customer-wealth) |
 | [3417-zigzag-grid-traversal-with-skip](https://github.com/arihant-jhaa/DSA/tree/master/3417-zigzag-grid-traversal-with-skip) |
+| [3898-find-the-degree-of-each-vertex](https://github.com/arihant-jhaa/DSA/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Simulation
 |  |
 | ------- |
@@ -246,4 +248,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/arihant-jhaa/DSA/tree/master/0069-sqrtx) |
+## Graph Theory
+|  |
+| ------- |
+| [3898-find-the-degree-of-each-vertex](https://github.com/arihant-jhaa/DSA/tree/master/3898-find-the-degree-of-each-vertex) |
 <!---LeetCode Topics End-->
