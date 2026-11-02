@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/arihant-jhaa/DSA/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/arihant-jhaa/DSA/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3783-mirror-distance-of-an-integer](https://github.com/arihant-jhaa/DSA/tree/master/3783-mirror-distance-of-an-integer) |
+| [3945-digit-frequency-score](https://github.com/arihant-jhaa/DSA/tree/master/3945-digit-frequency-score) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/arihant-jhaa/DSA/tree/master/0496-next-greater-element-i) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/arihant-jhaa/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [3668-restore-finishing-order](https://github.com/arihant-jhaa/DSA/tree/master/3668-restore-finishing-order) |
+| [3945-digit-frequency-score](https://github.com/arihant-jhaa/DSA/tree/master/3945-digit-frequency-score) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
