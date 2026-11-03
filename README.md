@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/arihant-jhaa/DSA/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/arihant-jhaa/DSA/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3417-zigzag-grid-traversal-with-skip](https://github.com/arihant-jhaa/DSA/tree/master/3417-zigzag-grid-traversal-with-skip) |
+| [3467-transform-array-by-parity](https://github.com/arihant-jhaa/DSA/tree/master/3467-transform-array-by-parity) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/arihant-jhaa/DSA/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3668-restore-finishing-order](https://github.com/arihant-jhaa/DSA/tree/master/3668-restore-finishing-order) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/arihant-jhaa/DSA/tree/master/3898-find-the-degree-of-each-vertex) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/arihant-jhaa/DSA/tree/master/0268-missing-number) |
 | [0912-sort-an-array](https://github.com/arihant-jhaa/DSA/tree/master/0912-sort-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/arihant-jhaa/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [3467-transform-array-by-parity](https://github.com/arihant-jhaa/DSA/tree/master/3467-transform-array-by-parity) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -135,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/arihant-jhaa/DSA/tree/master/0912-sort-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/arihant-jhaa/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/arihant-jhaa/DSA/tree/master/1512-number-of-good-pairs) |
+| [3467-transform-array-by-parity](https://github.com/arihant-jhaa/DSA/tree/master/3467-transform-array-by-parity) |
 ## Linked List
 |  |
 | ------- |
