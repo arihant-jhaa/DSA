@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/arihant-jhaa/DSA/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/arihant-jhaa/DSA/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/arihant-jhaa/DSA/tree/master/0367-valid-perfect-square) |
+| [0374-guess-number-higher-or-lower](https://github.com/arihant-jhaa/DSA/tree/master/0374-guess-number-higher-or-lower) |
 | [0704-binary-search](https://github.com/arihant-jhaa/DSA/tree/master/0704-binary-search) |
 ## Divide and Conquer
 |  |
@@ -304,4 +305,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/arihant-jhaa/DSA/tree/master/1863-sum-of-all-subset-xor-totals) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/arihant-jhaa/DSA/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
