@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/arihant-jhaa/DSA/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/arihant-jhaa/DSA/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/arihant-jhaa/DSA/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/arihant-jhaa/DSA/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2574-left-and-right-sum-differences](https://github.com/arihant-jhaa/DSA/tree/master/2574-left-and-right-sum-differences) |
 | [2942-find-words-containing-character](https://github.com/arihant-jhaa/DSA/tree/master/2942-find-words-containing-character) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/arihant-jhaa/DSA/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/arihant-jhaa/DSA/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/arihant-jhaa/DSA/tree/master/0344-reverse-string) |
 | [0876-middle-of-the-linked-list](https://github.com/arihant-jhaa/DSA/tree/master/0876-middle-of-the-linked-list) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/arihant-jhaa/DSA/tree/master/2161-partition-array-according-to-given-pivot) |
 ## Hash Table
 |  |
 | ------- |
@@ -261,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1920-build-array-from-permutation](https://github.com/arihant-jhaa/DSA/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/arihant-jhaa/DSA/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/arihant-jhaa/DSA/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/arihant-jhaa/DSA/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/arihant-jhaa/DSA/tree/master/2181-merge-nodes-in-between-zeros) |
 | [3417-zigzag-grid-traversal-with-skip](https://github.com/arihant-jhaa/DSA/tree/master/3417-zigzag-grid-traversal-with-skip) |
 | [3498-reverse-degree-of-a-string](https://github.com/arihant-jhaa/DSA/tree/master/3498-reverse-degree-of-a-string) |
