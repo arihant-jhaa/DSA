@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/arihant-jhaa/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/arihant-jhaa/DSA/tree/master/0027-remove-element) |
+| [0033-search-in-rotated-sorted-array](https://github.com/arihant-jhaa/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/arihant-jhaa/DSA/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/arihant-jhaa/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/arihant-jhaa/DSA/tree/master/0136-single-number) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/arihant-jhaa/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0069-sqrtx](https://github.com/arihant-jhaa/DSA/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/arihant-jhaa/DSA/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/arihant-jhaa/DSA/tree/master/0367-valid-perfect-square) |
