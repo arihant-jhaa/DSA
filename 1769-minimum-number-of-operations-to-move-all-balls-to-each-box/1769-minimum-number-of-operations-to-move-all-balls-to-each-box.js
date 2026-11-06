@@ -1,17 +1,28 @@
 /**
- * @param {string} boxes
+ * @param {string} a
  * @return {number[]}
  */
 var minOperations = function (a) {
-    let ans = [];
-    for (let i = 0; i < a.length; i++) {
-        let count = 0;
-        for (let j = 0; j < a.length; j++) {
-            if (a[j] === '1') {
-                count += Math.abs(i - j);
-            }
-        }
-        ans.push(count);
+    const n = a.length;
+    const l = new Array(n).fill(0);
+    const r = new Array(n).fill(0);
+    const ans = new Array(n).fill(0);
+
+    let lBalls = 0;
+    for (let i = 1; i < n; i++) {
+        if (a[i - 1] === '1') lBalls++;
+        l[i] = l[i - 1] + lBalls;
     }
+
+    let rBalls = 0;
+    for (let j = n - 2; j >= 0; j--) {
+        if (a[j + 1] === '1') rBalls++;
+        r[j] = r[j + 1] + rBalls;
+    }
+
+    for (let i = 0; i < n; i++) {
+        ans[i] = l[i] + r[i];
+    }
+
     return ans;
 };
