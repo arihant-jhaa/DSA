@@ -10,7 +10,7 @@ var maxFreqSum = function (s) {
 
     let maxv = 0, maxc = 0;
     for (let i = 0; i < arr.length; i++) {
-        if (i === 0 || i === 4 || i === 8 || i === 14 || i === 20) {
+        if ([0, 4, 8, 14, 20].includes(i)) {
             maxv = Math.max(arr[i], maxv);
         }
         else {
