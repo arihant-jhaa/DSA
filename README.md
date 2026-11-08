@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/arihant-jhaa/DSA/tree/master/0503-next-greater-element-ii) |
 | [0704-binary-search](https://github.com/arihant-jhaa/DSA/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/arihant-jhaa/DSA/tree/master/0739-daily-temperatures) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/arihant-jhaa/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0912-sort-an-array](https://github.com/arihant-jhaa/DSA/tree/master/0912-sort-an-array) |
 | [0994-rotting-oranges](https://github.com/arihant-jhaa/DSA/tree/master/0994-rotting-oranges) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/arihant-jhaa/DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/arihant-jhaa/DSA/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/arihant-jhaa/DSA/tree/master/0374-guess-number-higher-or-lower) |
 | [0704-binary-search](https://github.com/arihant-jhaa/DSA/tree/master/0704-binary-search) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/arihant-jhaa/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -344,4 +346,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/arihant-jhaa/DSA/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
+## Ternary Search
+|  |
+| ------- |
+| [0852-peak-index-in-a-mountain-array](https://github.com/arihant-jhaa/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
 <!---LeetCode Topics End-->
