@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/arihant-jhaa/DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/arihant-jhaa/DSA/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/arihant-jhaa/DSA/tree/master/0540-single-element-in-a-sorted-array) |
+| [0658-find-k-closest-elements](https://github.com/arihant-jhaa/DSA/tree/master/0658-find-k-closest-elements) |
 | [0704-binary-search](https://github.com/arihant-jhaa/DSA/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/arihant-jhaa/DSA/tree/master/0739-daily-temperatures) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/arihant-jhaa/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/arihant-jhaa/DSA/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/arihant-jhaa/DSA/tree/master/0374-guess-number-higher-or-lower) |
 | [0540-single-element-in-a-sorted-array](https://github.com/arihant-jhaa/DSA/tree/master/0540-single-element-in-a-sorted-array) |
+| [0658-find-k-closest-elements](https://github.com/arihant-jhaa/DSA/tree/master/0658-find-k-closest-elements) |
 | [0704-binary-search](https://github.com/arihant-jhaa/DSA/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/arihant-jhaa/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Divide and Conquer
@@ -133,12 +135,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/arihant-jhaa/DSA/tree/master/0088-merge-sorted-array) |
 | [0268-missing-number](https://github.com/arihant-jhaa/DSA/tree/master/0268-missing-number) |
+| [0658-find-k-closest-elements](https://github.com/arihant-jhaa/DSA/tree/master/0658-find-k-closest-elements) |
 | [0912-sort-an-array](https://github.com/arihant-jhaa/DSA/tree/master/0912-sort-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/arihant-jhaa/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [3467-transform-array-by-parity](https://github.com/arihant-jhaa/DSA/tree/master/3467-transform-array-by-parity) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0658-find-k-closest-elements](https://github.com/arihant-jhaa/DSA/tree/master/0658-find-k-closest-elements) |
 | [0912-sort-an-array](https://github.com/arihant-jhaa/DSA/tree/master/0912-sort-an-array) |
 ## Merge Sort
 |  |
@@ -199,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/arihant-jhaa/DSA/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/arihant-jhaa/DSA/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/arihant-jhaa/DSA/tree/master/0344-reverse-string) |
+| [0658-find-k-closest-elements](https://github.com/arihant-jhaa/DSA/tree/master/0658-find-k-closest-elements) |
 | [0876-middle-of-the-linked-list](https://github.com/arihant-jhaa/DSA/tree/master/0876-middle-of-the-linked-list) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/arihant-jhaa/DSA/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2396-strictly-palindromic-number](https://github.com/arihant-jhaa/DSA/tree/master/2396-strictly-palindromic-number) |
@@ -352,4 +357,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0852-peak-index-in-a-mountain-array](https://github.com/arihant-jhaa/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
+## Sliding Window
+|  |
+| ------- |
+| [0658-find-k-closest-elements](https://github.com/arihant-jhaa/DSA/tree/master/0658-find-k-closest-elements) |
 <!---LeetCode Topics End-->
