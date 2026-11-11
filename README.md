@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/arihant-jhaa/DSA/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/arihant-jhaa/DSA/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/arihant-jhaa/DSA/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2433-find-the-original-array-of-prefix-xor](https://github.com/arihant-jhaa/DSA/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [2574-left-and-right-sum-differences](https://github.com/arihant-jhaa/DSA/tree/master/2574-left-and-right-sum-differences) |
 | [2942-find-words-containing-character](https://github.com/arihant-jhaa/DSA/tree/master/2942-find-words-containing-character) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/arihant-jhaa/DSA/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -263,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/arihant-jhaa/DSA/tree/master/0268-missing-number) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/arihant-jhaa/DSA/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/arihant-jhaa/DSA/tree/master/1863-sum-of-all-subset-xor-totals) |
+| [2433-find-the-original-array-of-prefix-xor](https://github.com/arihant-jhaa/DSA/tree/master/2433-find-the-original-array-of-prefix-xor) |
 ## String
 |  |
 | ------- |
