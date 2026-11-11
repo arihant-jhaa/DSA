@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/arihant-jhaa/DSA/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/arihant-jhaa/DSA/tree/master/0509-fibonacci-number) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/arihant-jhaa/DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1486-xor-operation-in-an-array](https://github.com/arihant-jhaa/DSA/tree/master/1486-xor-operation-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/arihant-jhaa/DSA/tree/master/1512-number-of-good-pairs) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/arihant-jhaa/DSA/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2235-add-two-integers](https://github.com/arihant-jhaa/DSA/tree/master/2235-add-two-integers) |
@@ -265,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/arihant-jhaa/DSA/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/arihant-jhaa/DSA/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/arihant-jhaa/DSA/tree/master/0268-missing-number) |
+| [1486-xor-operation-in-an-array](https://github.com/arihant-jhaa/DSA/tree/master/1486-xor-operation-in-an-array) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/arihant-jhaa/DSA/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/arihant-jhaa/DSA/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/arihant-jhaa/DSA/tree/master/2433-find-the-original-array-of-prefix-xor) |
