@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/arihant-jhaa/DSA/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3668-restore-finishing-order](https://github.com/arihant-jhaa/DSA/tree/master/3668-restore-finishing-order) |
 | [3701-compute-alternating-sum](https://github.com/arihant-jhaa/DSA/tree/master/3701-compute-alternating-sum) |
+| [3731-find-missing-elements](https://github.com/arihant-jhaa/DSA/tree/master/3731-find-missing-elements) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/arihant-jhaa/DSA/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3838-weighted-word-mapping](https://github.com/arihant-jhaa/DSA/tree/master/3838-weighted-word-mapping) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/arihant-jhaa/DSA/tree/master/3898-find-the-degree-of-each-vertex) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/arihant-jhaa/DSA/tree/master/0912-sort-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/arihant-jhaa/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [3467-transform-array-by-parity](https://github.com/arihant-jhaa/DSA/tree/master/3467-transform-array-by-parity) |
+| [3731-find-missing-elements](https://github.com/arihant-jhaa/DSA/tree/master/3731-find-missing-elements) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -237,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/arihant-jhaa/DSA/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/arihant-jhaa/DSA/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3668-restore-finishing-order](https://github.com/arihant-jhaa/DSA/tree/master/3668-restore-finishing-order) |
+| [3731-find-missing-elements](https://github.com/arihant-jhaa/DSA/tree/master/3731-find-missing-elements) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/arihant-jhaa/DSA/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3945-digit-frequency-score](https://github.com/arihant-jhaa/DSA/tree/master/3945-digit-frequency-score) |
 ## Floyd's Cycle Finding Algorithm
